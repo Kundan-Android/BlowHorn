@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689161056664",
+    "firebase_url": "https://horndemo-eacfa.firebaseio.com",
+    "project_id": "horndemo-eacfa",
+    "storage_bucket": "horndemo-eacfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689161056664:android:a7196db08ba36aa303bbed",
+        "android_client_info": {
+          "package_name": "com.example.blowhorn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689161056664-pmkh6n7g76l77bdd7vc86o6g3p259312.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mvBQZki-pvQzLPcsUxQG8HqO4e071M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689161056664-pmkh6n7g76l77bdd7vc86o6g3p259312.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
